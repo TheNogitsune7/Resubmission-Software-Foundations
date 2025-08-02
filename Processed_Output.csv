@@ -1,0 +1,6 @@
+StudentID,Name,Score,Z_score,Grade,Passed
+101,Jane Doe,85,0.71,A,True
+102,John Smith,92,1.09,A,True
+103,Alice Johnson,47,-1.31,F,False
+104,Bob Lee,76,0.23,B,True
+105,Mary Clark,58,-0.73,D,True
