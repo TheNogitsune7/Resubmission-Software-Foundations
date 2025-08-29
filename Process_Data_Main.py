@@ -33,7 +33,7 @@ def save_results(df, processed_path, summary, summary_path):
     pd.DataFrame([summary]).to_csv(summary_path, index=False)
 
 def main():
-    input_file = "Students.csv"
+     input_file = "c:\\Users\\user\\Downloads\\Python_Assessment_Full_Package\\Students.csv"
     processed_file = "Processed_Output.csv"
     summary_file = "Summary_Output.csv"
 
